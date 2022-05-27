@@ -1,0 +1,15 @@
+C:\Workspace\DIO\GFT Start #5 .NET\PROJETO RPG\bin\Debug\net6.0\PROJETO RPG.exe
+C:\Workspace\DIO\GFT Start #5 .NET\PROJETO RPG\bin\Debug\net6.0\PROJETO RPG.deps.json
+C:\Workspace\DIO\GFT Start #5 .NET\PROJETO RPG\bin\Debug\net6.0\PROJETO RPG.runtimeconfig.json
+C:\Workspace\DIO\GFT Start #5 .NET\PROJETO RPG\bin\Debug\net6.0\PROJETO RPG.dll
+C:\Workspace\DIO\GFT Start #5 .NET\PROJETO RPG\bin\Debug\net6.0\PROJETO RPG.pdb
+C:\Workspace\DIO\GFT Start #5 .NET\PROJETO RPG\obj\Debug\net6.0\PROJETO RPG.csproj.AssemblyReference.cache
+C:\Workspace\DIO\GFT Start #5 .NET\PROJETO RPG\obj\Debug\net6.0\PROJETO RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\DIO\GFT Start #5 .NET\PROJETO RPG\obj\Debug\net6.0\PROJETO RPG.AssemblyInfoInputs.cache
+C:\Workspace\DIO\GFT Start #5 .NET\PROJETO RPG\obj\Debug\net6.0\PROJETO RPG.AssemblyInfo.cs
+C:\Workspace\DIO\GFT Start #5 .NET\PROJETO RPG\obj\Debug\net6.0\PROJETO RPG.csproj.CoreCompileInputs.cache
+C:\Workspace\DIO\GFT Start #5 .NET\PROJETO RPG\obj\Debug\net6.0\PROJETO RPG.dll
+C:\Workspace\DIO\GFT Start #5 .NET\PROJETO RPG\obj\Debug\net6.0\refint\PROJETO RPG.dll
+C:\Workspace\DIO\GFT Start #5 .NET\PROJETO RPG\obj\Debug\net6.0\PROJETO RPG.pdb
+C:\Workspace\DIO\GFT Start #5 .NET\PROJETO RPG\obj\Debug\net6.0\PROJETO RPG.genruntimeconfig.cache
+C:\Workspace\DIO\GFT Start #5 .NET\PROJETO RPG\obj\Debug\net6.0\ref\PROJETO RPG.dll
